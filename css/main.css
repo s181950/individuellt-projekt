@@ -423,6 +423,7 @@ p{
 
   .header-right {
     float: right;
+    padding-top: 4em;
   }
 
   /* indexpage */
